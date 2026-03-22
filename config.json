@@ -1,0 +1,58 @@
+{
+  "palette": {
+    "header_accent": "#B8860B",
+    "heading_primary": "#1A3C5E",
+    "heading_secondary": "#2C5F8A",
+    "body_text": "#000000",
+    "subtitle": "#555555",
+    "metadata": "#888888",
+    "blockquote": "#444444",
+    "table_header_bg": "#F5E6CC",
+    "table_header_text": "#1A3C5E",
+    "footer": "#888888"
+  },
+  "fonts": {
+    "title": "Georgia",
+    "heading": "Georgia",
+    "body": "Georgia",
+    "mono": "Consolas",
+    "table": "Arial"
+  },
+  "sizes": {
+    "title": 26,
+    "subtitle": 14,
+    "heading1": 16,
+    "heading2": 13,
+    "heading3": 12,
+    "body": 12,
+    "metadata": 10,
+    "code": 9,
+    "footer": 8
+  },
+  "margins": {
+    "top": 1.0,
+    "bottom": 1.0,
+    "left": 1.0,
+    "right": 1.0
+  },
+  "branding": {
+    "header_text": "THEOPHYSICS RESEARCH",
+    "footer_text": "Theophysics Research  |  theophysics.pro  |  David Lowe",
+    "author_default": "David Lowe | Theophysics Research | March 2026"
+  },
+  "cover_page": {
+    "enabled": true,
+    "show_logo_bar": true,
+    "show_score_card": true
+  },
+  "7q_colors": {
+    "Q0": { "name": "Arrive",        "hex": "#8A8D9B", "bg": "#E8E9EC" },
+    "Q1": { "name": "Define",        "hex": "#D4A853", "bg": "#FDF5E6" },
+    "Q2": { "name": "Locate",        "hex": "#7C6340", "bg": "#F0EAE0" },
+    "Q3": { "name": "Commit",        "hex": "#6B8C42", "bg": "#E8F0DD" },
+    "Q4": { "name": "Support",       "hex": "#38BDF8", "bg": "#E0F4FE" },
+    "Q5": { "name": "Ground",        "hex": "#A0724A", "bg": "#F0E6DA" },
+    "Q6": { "name": "Propagate",     "hex": "#34D399", "bg": "#DCFCE7" },
+    "Q7": { "name": "Falsification", "hex": "#EF4444", "bg": "#FEE2E2" }
+  }
+}

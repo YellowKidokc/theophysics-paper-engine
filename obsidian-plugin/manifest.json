@@ -1,0 +1,10 @@
+{
+  "id": "theophysics-paper-engine",
+  "name": "Theophysics Paper Engine",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Export Obsidian markdown to styled Word documents and PDFs with the Theophysics color palette. Includes 7Q scored paper templates.",
+  "author": "David Lowe",
+  "authorUrl": "https://theophysics.pro",
+  "isDesktopOnly": true
+}
